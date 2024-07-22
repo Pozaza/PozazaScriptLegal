@@ -1,8 +1,8 @@
 ## `PozazaScript#5090` Terms of Service
-Last update timestamp: 09.07.2024
+Last update timestamp: 22.07.2024
 
 By using `PozazaScript#5090`, you agree to the following Terms of Service.<br>
-If you do not agree with any of these terms, you are prohibited from using the Bot.
+If you do not agree with any of these terms, you are prohibited from using the bot.
 <br>
 <br>
 ### 1. Bot usage
@@ -12,10 +12,10 @@ If you do not agree with any of these terms, you are prohibited from using the B
 1.4 The bot may not be working periodically or may be working incorrectly due to technical problems and during their resolution.
 <br>
 <br>
-### 3. Limitation of Liability
-3.1 We shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Bot.
+### 2. Limitation of Liability
+2.1 We shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Bot.
 <br>
 <br>
-### 2. Changes to the Terms
+### 3. Changes to the Terms
 3.1 We reserves the right to update and change the Terms at any time without notice.<br>
 3.2 It is your responsibility to review the Terms periodically for changes.
